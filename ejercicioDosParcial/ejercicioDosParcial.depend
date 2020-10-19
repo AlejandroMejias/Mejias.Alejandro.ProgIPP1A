@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603110475 source:c:\users\aleja\utn\primer cuatrimestre\programacion_laboratorio 1\ejerciciodosparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+
